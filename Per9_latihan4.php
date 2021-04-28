@@ -6,7 +6,7 @@
 <font size="10px">
 <?php
 
-// Nama : Muhammad Derio
+// Nama : Fauzi Annur
 // Kelas : 06TPLE012
 
 echo "Sekarang tanggal ";
